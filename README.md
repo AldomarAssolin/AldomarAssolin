@@ -1,16 +1,23 @@
+<div align="center">
+    <img src="assets/images/Assolin.png" width="220"/>
+</div>
+
+
 ### Hi there 👋
 
-<!--
-**AldomarAssolin/AldomarAssolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="display:flex">
 
-Here are some ideas to get you started:
+<img src="assets/images/html5.png" width="48" style="margin-right:.5rem"/> 
+<img src="assets/images/css3.png" width="48" style="margin-right:.5rem"/> 
+<img src="assets/images/javascript.png" width="48" style="margin-right:.5rem"/> 
+<img src="assets/images/node.png" width="48" style="margin-right:.5rem"/>
+<img src="assets/images/assets/images/bootstrap.png" width="48" style="margin-right:.5rem"/> 
+<img src="assets/images/css3.png" width="48" style="margin-right:.5rem"/> 
+<img src="assets/images/python.png" width="48" style="margin-right:.5rem"/> 
+<img src="assets/images/MySQL.png" width="48" style="margin-right:.5rem"/> 
+<img src="assets/images/scrum.png" width="48" style="margin-right:.5rem"/>   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+**Loanding**...
