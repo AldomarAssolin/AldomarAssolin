@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-<div align="center" style="display:flex">
+<div align="center" style="margin:1rem">
 
 <img src="assets/images/html5.png" width="48" style="margin-right:.5rem"/> 
 <img src="assets/images/css3.png" width="48" style="margin-right:.5rem"/> 
@@ -21,4 +21,21 @@
 </div>
 
 
+<div align="center">
+
+<a href="https://github.com/AldomarAssolin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/AldomarAssolin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight" style="margin:1rem 0" />
+</a>
+
+<a href="https://github.com/AldomarAssolin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
+</a>
+
+</div>
+
+#
 **Loanding**...
