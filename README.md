@@ -43,16 +43,12 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 <div align="center" style="width:50%; height:100%">
 
   <h3>Stats</h3>
-  <a href="https://github.com/AldomarAssolin">
-    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/AldomarAssolin">
-    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
-  </a>
 
-  <a href="https://github.com/AldomarAssolin">
-    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/>
-  </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight)
 
 </div>
 
@@ -64,4 +60,22 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldomarassolin)
 [![instagram](https://img.shields.io/badge/instagram-B7106B?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/aldomarassolin/)
 
+
+
 **Loanding**...
+
+
+<!-- <a href="https://github.com/AldomarAssolin">
+    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/AldomarAssolin">
+    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AldomarAssolin">
+    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/>
+  </a>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight) -->
