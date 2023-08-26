@@ -44,11 +44,16 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 
   <h3>Stats</h3>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+ <a href="https://github.com/AldomarAssolin">
+    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/AldomarAssolin">
+    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
+  </a>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight)
+  <a href="https://github.com/AldomarAssolin">
+    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/>
+  </a>
 
 </div>
 
@@ -65,17 +70,13 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 **Loanding**...
 
 
-<!-- <a href="https://github.com/AldomarAssolin">
-    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/AldomarAssolin">
-    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AldomarAssolin">
-    <img width='100%' height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/>
-  </a>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight) -->
+
+<!-- 
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight) -->
