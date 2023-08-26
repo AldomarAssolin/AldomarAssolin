@@ -13,16 +13,16 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 
 
-</div>
+</div> -->
 
 
 
-<div style="width:100%;display:flex">
-<div align="center" style="width:50%">
+<!-- <div style="width:100%;display:flex">
+<div align="center" style="width:50%"> -->
 
 ### Habilidades
 
@@ -38,26 +38,21 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 <img src="assets/images/visual_studio_code.png" width="48" style="margin-right:.5rem"/>
 
 
-</div>
+<!-- </div>
 
-<div align="center" style="width:50%; height:100%">
+<div align="center" style="width:50%; height:100%"> -->
 
   <h3>Stats</h3>
 
- <a href="https://github.com/AldomarAssolin">
-    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/AldomarAssolin">
-    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
-  </a>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
-  <a href="https://github.com/AldomarAssolin">
-    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/>
-  </a>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight)
 
-</div>
+<!-- </div>
+
+</div> -->
 
 ### 🔗 Links
 
@@ -75,8 +70,19 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight) -->
 
 <!-- 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+    
+  
+  
+  <a href="https://github.com/AldomarAssolin">
+    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/AldomarAssolin">
+    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
+  </a>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight) -->
+  <a href="https://github.com/AldomarAssolin">
+    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/>
+  </a>
+  
+  
+  -->
