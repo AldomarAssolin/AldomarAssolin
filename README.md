@@ -40,7 +40,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 
 </div>
 
-<div align="center" style="width:50%; height:100%"> -->
+<!--<div align="center" style="width:50%; height:100%"> -->
 
   <h3>Stats</h3>
 
