@@ -21,8 +21,8 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 
 
 
-<!-- <div style="width:100%;display:flex">
-<div align="center" style="width:50%"> -->
+ <div style="width:100%;display:flex">
+<!--<div align="center" style="width:50%"> -->
 
 ### Habilidades
 
@@ -38,7 +38,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 <img src="assets/images/visual_studio_code.png" width="48" style="margin-right:.5rem"/>
 
 
-<!-- </div>
+</div>
 
 <div align="center" style="width:50%; height:100%"> -->
 
