@@ -46,7 +46,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AldomarAssolin&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AldomarAssolin&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&hide_progress=true&theme=tokyonight)
 
