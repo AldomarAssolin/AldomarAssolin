@@ -8,23 +8,15 @@
 
 ## 🚀 Sobre mim
 # Me chamo Aldomar Assolin
-Tenho 39 anos, sou do interior do Rio Grande do Sul.
-Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestre.
+Meu nome é Aldomar Assolin, mas me chamam de Manex. Sou um profissional com mais de 15 anos de experiência em soldagem. Atualmente, estou cursando o tecnólogo de Análise e Desenvolvimento de Sistemas. Sou apaixonado por programação e tenho conhecimento básico em frontend, com HTML, CSS, JavaScript e React. No backend, tenho conhecimento básico em nodeJS, PHP e Python. Tenho bom conhecimento em Banco de Dados Relacional e linguagem SQL.
+
+Além da tecnologia, também sou apaixonado por música, Rock'n Roll, viagens e motociclismo.
 
 </div>
 
-<!-- <div align="center">
-
-
-
-</div> -->
-
-
+### Habilidades
 
  <div style="width:100%;display:flex">
-<!--<div align="center" style="width:50%"> -->
-
-### Habilidades
 
 <img src="assets/images/html5.png" width="48" style="margin-right:.5rem"/> 
 <img src="assets/images/css3.png" width="48" style="margin-right:.5rem"/> 
@@ -46,13 +38,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight)
 
-  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AldomarAssolin&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&hide_progress=true&theme=tokyonight)
-
-<!-- </div>
-
-</div> -->
 
 ### 🔗 Links
 
@@ -64,25 +50,3 @@ Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no 3° semestr
 
 **Loanding**...
 
-
-  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&layout=compact&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&theme=tokyonight) -->
-
-<!-- 
-    
-  
-  
-  <a href="https://github.com/AldomarAssolin">
-    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/AldomarAssolin">
-    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AldomarAssolin">
-    <img width='300px' height="250%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/>
-  </a>
-  
-  
-  -->
