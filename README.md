@@ -15,13 +15,6 @@ Além da tecnologia, também sou apaixonado por música, Rock'n Roll, viagens e 
 </div>
 <hr>
 
-### Se puder me ajudar
-clicando no link e comprando qualquer produto, você me ajuda com uma porcentagem da compra.<br>
-[![Amazon](https://img.shields.io/badge/livros-Amazon-000?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com.br/b?_encoding=UTF8&tag=manex00-20&linkCode=ur2&linkId=f97a307ff07606983231a0c5ef33f400&camp=1789&creative=9325&node=7842641011)
-[![Amazon](https://img.shields.io/badge/componentes-Amazon-000?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com.br/b?_encoding=UTF8&tag=manex00-20&linkCode=ur2&linkId=77817ac39408b8d25070d4e701f34495&camp=1789&creative=9325&node=16364750011)
-
-<hr>
-
 ### Habilidades
 
  <div style="width:100%;display:flex">
