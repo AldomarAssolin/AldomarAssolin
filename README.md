@@ -71,7 +71,19 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
 4. [Money App](https://github.com/AldomarAssolin/money-app): Curso React com Redux (Coder).
 5. [Clone Danki](https://github.com/AldomarAssolin/clone_danki): Estudos em React - Clone do site Danki Code.
 6. [Projeto Hotel](https://github.com/AldomarAssolin/projeto-hotel): Site simples para estudos de HTML.
+<!--
+## Certificados
 
+### Banco de Dados Relacional
+- **Instituição**: DIO - Digital Inovation One
+- **Duração**: 80 horas
+- **Descrição**: Modelagem e implementação de banco de dados relacional.
+
+## Publicações
+
+- [Publicação 1](#): Descrição breve da publicação 1.
+- [Publicação 2](#): Descrição breve da publicação 2.
+-->
 ## Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldomarAssolin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldomarAssolin&layout=compact&theme=radical)
