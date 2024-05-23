@@ -38,7 +38,7 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
         <div style="width:100%;display:flex">
             <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/e25833a2-77a9-4ffc-a892-f7290e5eb6c0" width="48" style="margin-right:.5rem"/> 
             <img src="assets/images/python.png" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/PHP.png" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/PHP-logo.png" width="48" style="margin-right:.5rem"/> 
             <img src="assets/images/node.png" width="48" style="margin-right:.5rem"/> 
         </div>
     </div>
