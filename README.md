@@ -14,53 +14,63 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
 
 ## Habilidades
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-<div style="width:100%;display:flex">
-    <img src="assets/images/html5.png" width="48" style="margin-right:.5rem"/> 
-    <img src="assets/images/css3.png" width="48" style="margin-right:.5rem"/> 
-    <img src="assets/images/javascript.png" width="48" style="margin-right:.5rem"/>
-    <img src="assets/images/React.png" width="48" style="margin-right:.5rem"/> 
-</div>
+<div style="display:flex; flex-wrap: wrap;">
+    <div style="width:calc(100%/4); flex-grow: 1;">
+        ### Frontend
+        - HTML
+        - CSS
+        - JavaScript
+        - React
+        <div style="width:100%;display:flex">
+            <img src="assets/images/html5.png" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/css3.png" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/javascript.png" width="48" style="margin-right:.5rem"/>
+            <img src="assets/images/React.png" width="48" style="margin-right:.5rem"/> 
+        </div>
+    </div>
 
-### Backend
-- Node.js
-- PHP
-- Python
-- Java
-<div style="width:100%;display:flex">
-    <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/e25833a2-77a9-4ffc-a892-f7290e5eb6c0" width="48" style="margin-right:.5rem"/> 
-    <img src="assets/images/python.png" width="48" style="margin-right:.5rem"/> 
-    <img src="assets/images/PHP.png" width="48" style="margin-right:.5rem"/> 
-    <img src="assets/images/node.png" width="48" style="margin-right:.5rem"/> 
-</div>
+<div style="width:calc(100%/4); flex-grow: 1;">
+        ### Backend
+        - Node.js
+        - PHP
+        - Python
+        - Java
+        <div style="width:100%;display:flex">
+            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/e25833a2-77a9-4ffc-a892-f7290e5eb6c0" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/python.png" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/PHP.png" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/node.png" width="48" style="margin-right:.5rem"/> 
+        </div>
+    </div>
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
-- SQL
-<div style="width:100%;display:flex">
-    <img src="assets/images/MySQL.png" width="48" style="margin-right:.5rem"/> 
-    <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/c0971aa2-0dba-419b-889b-a9ac1e780d02" width="48" style="margin-right:.5rem"/> 
-    <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/d541a15e-5b48-48a8-8663-cd02105ed97a" width="48" style="margin-right:.5rem"/> 
-    <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/2730dad7-884b-4cc1-98f6-73a1fe1cf1c3" width="48" style="margin-right:.5rem"/> 
-</div>
+<div style="width:calc(100%/4); flex-grow: 1;">
+        ### Banco de Dados
+        - PostgreSQL
+        - MySQL
+        - SQL
+        <div style="width:100%;display:flex">
+            <img src="assets/images/MySQL.png" width="48" style="margin-right:.5rem"/> 
+            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/c0971aa2-0dba-419b-889b-a9ac1e780d02" width="48" style="margin-right:.5rem"/> 
+            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/d541a15e-5b48-48a8-8663-cd02105ed97a" width="48" style="margin-right:.5rem"/> 
+            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/2730dad7-884b-4cc1-98f6-73a1fe1cf1c3" width="48" style="margin-right:.5rem"/> 
+        </div>
+    </div>
 
-### Outras Tecnologias
-- Spring Boot
-- JPA (Java Persistence API)
-- Jackson
-- Express
-- Mongoose
-<div style="width:100%;display:flex">
-    <img src="assets/images/bootstrap.png" width="48" style="margin-right:.5rem"/> 
-    <img src="assets/images/metodologoias_ageis.png" width="48" style="margin-right:.5rem"/>  
-    <img src="assets/images/trello.png" width="48" style="margin-right:.5rem"/> 
-    <img src="assets/images/visual_studio_code.png" width="48" style="margin-right:.5rem"/>
-    <img src="assets/images/scrum.png" width="48" style="margin-right:.5rem"/> 
+<div style="width:calc(100%/4); flex-grow: 1;">
+        ### Outras Tecnologias
+        - Spring Boot
+        - JPA (Java Persistence API)
+        - Jackson
+        - Express
+        - Mongoose
+        <div style="width:100%;display:flex">
+            <img src="assets/images/bootstrap.png" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/metodologoias_ageis.png" width="48" style="margin-right:.5rem"/>  
+            <img src="assets/images/trello.png" width="48" style="margin-right:.5rem"/> 
+            <img src="assets/images/visual_studio_code.png" width="48" style="margin-right:.5rem"/>
+            <img src="assets/images/scrum.png" width="48" style="margin-right:.5rem"/> 
+        </div>
+    </div>
 </div>
 
 ## Projetos Destacados
