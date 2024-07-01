@@ -16,7 +16,7 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
 
 <div style="display:flex; flex-wrap: wrap;">
     <div style="width:calc(100%/4); flex-grow: 1;">
-        ### Frontend
+        <h3> Frontend </h3>
         - HTML
         - CSS
         - JavaScript
@@ -30,7 +30,7 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
     </div>
 
 <div style="width:calc(100%/4); flex-grow: 1;">
-        ### Backend
+        <h3> Backend </h3>
         - Node.js
         - PHP
         - Python
@@ -44,7 +44,7 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
     </div>
 
 <div style="width:calc(100%/4); flex-grow: 1;">
-        ### Banco de Dados
+        <h3> Banco de Dados </h3>
         - PostgreSQL
         - MySQL
         - SQL
@@ -57,7 +57,7 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
     </div>
 
 <div style="width:calc(100%/4); flex-grow: 1;">
-        ### Outras Tecnologias
+        <h3> Outras Tecnologias </h3>
         - Spring Boot
         - JPA (Java Persistence API)
         - Jackson
