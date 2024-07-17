@@ -75,12 +75,13 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
 
 ## Projetos Destacados
 
-1. [MarvelApp](https://github.com/AldomarAssolin/MarvelApp): Estudando APIs em JavaScript.
-2. [Hoteis Básico Front](https://github.com/AldomarAssolin/hoteis-basico-front): Projeto em HTML e CSS.
-3. [Revenda de Carros](https://github.com/AldomarAssolin/revenda-de-carros): Projeto em HTML.
-4. [Money App](https://github.com/AldomarAssolin/money-app): Curso React com Redux (Coder).
-5. [Clone Danki](https://github.com/AldomarAssolin/clone_danki): Estudos em React - Clone do site Danki Code.
-6. [Projeto Hotel](https://github.com/AldomarAssolin/projeto-hotel): Site simples para estudos de HTML.
+1. [API-OMDB](https://github.com/AldomarAssolin/screammatchJPA.git): Projeto desenvolvido no segundo curso da formação Avançando com Java da Alura.
+2. [Projeto API Guntendex](https://github.com/AldomarAssolin/gutendexLib.git): Aplicação via console para estudo da linguagem JAVA e consumo de APIs.
+3. [Projetos Clínica Médica](https://github.com/AldomarAssolin/clinicaMedica.git): Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. .
+4. [MarvelApp](https://github.com/AldomarAssolin/MarvelApp): Estudando APIs em JavaScript.
+5. [Hoteis Básico Front](https://github.com/AldomarAssolin/hoteis-basico-front): Projeto em HTML e CSS.
+6. [Revenda de Carros](https://github.com/AldomarAssolin/revenda-de-carros): Projeto em HTML.
+
 <!--
 ## Certificados
 
