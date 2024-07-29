@@ -14,73 +14,55 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
 
 ## Habilidades
 
-<div style="display:flex; flex-wrap: wrap;">
-    <div style="width:calc(100%/4); flex-grow: 1;">
-        <h3> Frontend </h3>
-        - HTML
-        - CSS
-        - JavaScript
-        - React
-        <div style="width:100%;display:flex">
-            <img src="assets/images/html5.png" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/css3.png" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/javascript.png" width="48" style="margin-right:.5rem"/>
-            <img src="assets/images/React.png" width="48" style="margin-right:.5rem"/> 
-        </div>
-    </div>
+### Frontend
+        
+![Static Badge](https://img.shields.io/badge/html5-blue?style=flat&logo=html5&logoSize=%231c1c1c&labelColor=%231d1d1d&color=orange)
+![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=blue&logoSize=%231c1c1c&labelColor=%231d1d1d&color=blue)
+![Static Badge](https://img.shields.io/badge/javascript-blue%3Flogo%3Djavascript?style=flat&logo=javascript&logoSize=%231c1c1c&labelColor=%231d1d1d&color=yellow)
+![Static Badge](https://img.shields.io/badge/ReactJS-blue?style=flat&logo=react&logoColor=blue&logoSize=%231c1c1c&labelColor=%231d1d1d&color=blue)
 
-<div style="width:calc(100%/4); flex-grow: 1;">
-        <h3> Backend </h3>
-        - Node.js
-        - PHP
-        - Python
-        - Java
-        <div style="width:100%;display:flex">
-            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/e25833a2-77a9-4ffc-a892-f7290e5eb6c0" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/python.png" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/PHP-logo.png" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/node.png" width="48" style="margin-right:.5rem"/> 
-        </div>
-    </div>
+### Backend
+![Static Badge](https://img.shields.io/badge/Java-blue?style=flat&logo=coffeescript&logoSize=auto&labelColor=%231d1d1d&color=blue)
+![Static Badge](https://img.shields.io/badge/NodeJS-blue?style=flat&logo=nodedotjs&logoColor=green&logoSize=%231c1c1c&labelColor=%231d1d1d&color=green)
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoSize=auto&labelColor=%231d1d1d&color=violet)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoSize=auto&labelColor=%231d1d1d&color=yellow)
 
-<div style="width:calc(100%/4); flex-grow: 1;">
-        <h3> Banco de Dados </h3>
-        - PostgreSQL
-        - MySQL
-        - SQL
-        <div style="width:100%;display:flex">
-            <img src="assets/images/MySQL.png" width="48" style="margin-right:.5rem"/> 
-            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/c0971aa2-0dba-419b-889b-a9ac1e780d02" width="48" style="margin-right:.5rem"/> 
-            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/d541a15e-5b48-48a8-8663-cd02105ed97a" width="48" style="margin-right:.5rem"/> 
-            <img src="https://github.com/AldomarAssolin/AldomarAssolin/assets/70400399/2730dad7-884b-4cc1-98f6-73a1fe1cf1c3" width="48" style="margin-right:.5rem"/> 
-        </div>
-    </div>
+### Banco de Dados
+![Static Badge](https://img.shields.io/badge/Postgree-blue?style=flat&logo=postgreSQL&logoColor=white&logoSize=auto&labelColor=%231d1d1d&color=yellow)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=blue&logoSize=auto&labelColor=%231d1d1d&color=blue)
+![Static Badge](https://img.shields.io/badge/MongoDB-blue?style=flat&logo=MongoDB&logoColor=green&logoSize=auto&labelColor=%231d1d1d&color=green)
 
-<div style="width:calc(100%/4); flex-grow: 1;">
-        <h3> Outras Tecnologias </h3>
-        - Spring Boot
-        - JPA (Java Persistence API)
-        - Jackson
-        - Express
-        - Mongoose
-        <div style="width:100%;display:flex">
-            <img src="assets/images/bootstrap.png" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/metodologoias_ageis.png" width="48" style="margin-right:.5rem"/>  
-            <img src="assets/images/trello.png" width="48" style="margin-right:.5rem"/> 
-            <img src="assets/images/visual_studio_code.png" width="48" style="margin-right:.5rem"/>
-            <img src="assets/images/scrum.png" width="48" style="margin-right:.5rem"/> 
-        </div>
-    </div>
+### Outras Tecnologias
+- Spring Boot
+- JPA (Java Persistence API)
+- Jackson
+- Express
+- Mongoose
+<div style="width:600px;display:flex;background:#111000;padding:10px">
+    <span style="marginRight:16px">
+        <img src="assets/images/bootstrap.png" width="48" style="margin-right:.5rem" style="marginRight:160px"/> 
+    </span>
+    <span style="marginRight:16px">
+        <img src="assets/images/metodologoias_ageis.png" width="48" style="margin-right:.5rem" style="margin:1px"/>   
+    </span>
+    <span style="marginRight:16px">
+        <img src="assets/images/trello.png" width="48" style="margin-right:.5rem" style="margin:1px"/> 
+    </span>
+    <span style="marginRight:16px">
+        <img src="assets/images/visual_studio_code.png" width="48" style="margin-right:.5rem" style="margin:1px"/>
+    </span>
+    <span style="marginRight:16px">
+        <img src="assets/images/scrum.png" width="48" style="margin-right:.5rem" style="margin:1px"/>   
+    </span>
 </div>
+
+
 
 ## Projetos Destacados
 
-1. [API-OMDB](https://github.com/AldomarAssolin/screammatchJPA.git): Projeto desenvolvido no segundo curso da formação Avançando com Java da Alura.
-2. [Projeto API Guntendex](https://github.com/AldomarAssolin/gutendexLib.git): Aplicação via console para estudo da linguagem JAVA e consumo de APIs.
-3. [Projetos Clínica Médica](https://github.com/AldomarAssolin/clinicaMedica.git): Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. .
-4. [MarvelApp](https://github.com/AldomarAssolin/MarvelApp): Estudando APIs em JavaScript.
-5. [Hoteis Básico Front](https://github.com/AldomarAssolin/hoteis-basico-front): Projeto em HTML e CSS.
-6. [Revenda de Carros](https://github.com/AldomarAssolin/revenda-de-carros): Projeto em HTML.
+1.  [![API-OMDB](https://img.shields.io/badge/API--OMDB-blue?style=for-the-badge&logo=imdb&logoColor=white&logoSize=amg&labelColor=%23F5C518)](https://github.com/AldomarAssolin/screammatchJPA.git) - Projeto desenvolvido em Java com springboot e JPA, banco de dados Postgree.
+2.  [![Projeto API Guntendex](https://img.shields.io/badge/gutendexLib-blue?style=for-the-badge&logo=gutenberg&logoColor=white&logoSize=auto&labelColor=%23000000&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgutenberg-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgutenberg%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3D%2523000000%26))](https://github.com/AldomarAssolin/gutendexLib.git) - Consumo API Gutendex, biblioteca virtual de livros.
+3.  [![VollMed](https://img.shields.io/badge/VollMed-blue?style=for-the-badge&logo=mediafire&logoColor=white&logoSize=auto&labelColor=%231299F3)](https://github.com/AldomarAssolin/clinicaMedica.git) - Aplicativo para cadstrar medico e pacientes, assim como marcar consultas.
 
 <!--
 ## Certificados
