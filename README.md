@@ -60,9 +60,9 @@ Meu nome é Aldomar Assolin, também conhecido como Manex. Trabalhei por mais de
 
 ## Projetos Destacados
 
-1.  [![API-OMDB](https://img.shields.io/badge/API--OMDB-blue?style=for-the-badge&logo=imdb&logoColor=white&logoSize=amg&labelColor=%23F5C518)](https://github.com/AldomarAssolin/screammatchJPA.git) - Projeto desenvolvido em Java com springboot e JPA, banco de dados Postgree.
-2.  [![Projeto API Guntendex](https://img.shields.io/badge/gutendexLib-blue?style=for-the-badge&logo=gutenberg&logoColor=white&logoSize=auto&labelColor=%23000000&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgutenberg-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgutenberg%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3D%2523000000%26))](https://github.com/AldomarAssolin/gutendexLib.git) - Consumo API Gutendex, biblioteca virtual de livros.
-3.  [![VollMed](https://img.shields.io/badge/VollMed-blue?style=for-the-badge&logo=mediafire&logoColor=white&logoSize=auto&labelColor=%231299F3)](https://github.com/AldomarAssolin/clinicaMedica.git) - Aplicativo para cadstrar medico e pacientes, assim como marcar consultas.
+[![API-OMDB](https://img.shields.io/badge/API--OMDB-blue?style=for-the-badge&logo=imdb&logoColor=white&logoSize=amg&labelColor=%23F5C518)](https://github.com/AldomarAssolin/screammatchJPA.git) - Projeto desenvolvido em Java com springboot e JPA, banco de dados Postgree.
+[![Projeto API Guntendex](https://img.shields.io/badge/gutendexLib-blue?style=for-the-badge&logo=gutenberg&logoColor=white&logoSize=auto&labelColor=%23000000&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgutenberg-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgutenberg%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3D%2523000000%26))](https://github.com/AldomarAssolin/gutendexLib.git) - Consumo API Gutendex, biblioteca virtual de livros.
+[![VollMed](https://img.shields.io/badge/VollMed-blue?style=for-the-badge&logo=mediafire&logoColor=white&logoSize=auto&labelColor=%231299F3)](https://github.com/AldomarAssolin/clinicaMedica.git) - Aplicativo para cadstrar medico e pacientes, assim como marcar consultas.
 
 <!--
 ## Certificados
